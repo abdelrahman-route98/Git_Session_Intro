@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "Creating by mina";
+	cout << "Creating by mina"<<endl;
+	cout<<"Hallo world!"<<endl;
 }
